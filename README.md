@@ -9,5 +9,5 @@
 ### Instructions
 
 - Download Toy2Fixes.EXE and have it opened while the game is running
-- Alternatively you cause use Toy2Fixes.CT but you must have Cheat Engine installed
+- Alternatively you can use Toy2Fixes.CT but you must have Cheat Engine installed
 
